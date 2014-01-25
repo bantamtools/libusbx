@@ -1,7 +1,7 @@
 For detailed information about the changes below, please see the git log or
 visit: http://log.libusbx.org
 
-2014-01-08: v1.0.18-rc1
+2014-01-25: v1.0.18 *FINAL RELEASE*
 * Last release of libusbx, as the project is merging back again with libusb.
   As a result, continuation of the project will now occur from the following:
   o Main site:          http://libusb.info
